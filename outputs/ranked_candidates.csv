@@ -1,0 +1,7 @@
+Rank,Candidate,Similarity Score,Skill Match,Final Score,Missing Skills
+1,resume5.pdf,19.89,83.33,38.92,nlp
+2,resume6.pdf,18.08,66.67,32.66,"nlp, sql"
+3,resume3.pdf,3.91,33.33,12.74,"pandas, nlp, numpy, machine learning"
+4,resume4.pdf,4.96,16.67,8.47,"pandas, nlp, machine learning, numpy, sql"
+5,resume2.pdf,3.67,16.67,7.57,"pandas, nlp, machine learning, numpy, sql"
+6,resume1.pdf,1.97,16.67,6.38,"pandas, nlp, machine learning, numpy, sql"
